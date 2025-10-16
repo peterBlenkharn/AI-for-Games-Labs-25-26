@@ -41,7 +41,7 @@ providers = {
 		priority = 90
 		defaultAction = null
 	}
-	profilermarkers = {
+	store = {
 		active = false
 		priority = 100
 		defaultAction = null
@@ -51,7 +51,7 @@ providers = {
 		priority = 100
 		defaultAction = null
 	}
-	store = {
+	profilermarkers = {
 		active = false
 		priority = 100
 		defaultAction = null
